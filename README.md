@@ -26,5 +26,4 @@ A modern, interactive front-end website named **Mejuri**, designed to showcase p
 ## Usage
 
 1. Clone the repository:
-file:///G:/project_MEJURI/jewellery2.html
 git clone https://github.com/Tahreem-M/MEJURI-Website.git
